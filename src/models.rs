@@ -1,4 +1,3 @@
-use chrono::Date;
 use chrono::DateTime;
 use chrono::Utc;
 use serde::{Deserialize, Serialize};
